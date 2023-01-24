@@ -1,0 +1,28 @@
+.heading
+{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    margin: 0p;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body
+{
+    background-size: cover;
+}
+
+
+canvas
+{
+    background-color: #0000;
+   border:5px solid white;
+   border-radius:20px;
+   margin-top:50px;
+
+}
